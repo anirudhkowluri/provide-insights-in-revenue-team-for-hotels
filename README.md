@@ -1,4 +1,5 @@
 Hospitality Revenue Insights – Power BI Dashboard
+
 📌 Project Overview
 
 This project focuses on providing data-driven revenue insights for AtliQ Grands, a luxury and business hotel chain operating across multiple cities in India.
@@ -74,5 +75,12 @@ Hospitality Domain KPIs
 Excel (source data)
 
 Dashboard overview
-img width="1227" height="672" alt="Screenshot 2026-01-31 215807" src="https://github.com/user-attachments/assets/7c990df2-9cf4-495b-9266-41b85ccf3278" />
+<img width="1227" height="672" alt="Screenshot 2026-01-31 215807" src="https://github.com/user-attachments/assets/7c990df2-9cf4-495b-9266-41b85ccf3278" />
+
+<img width="1131" height="606" alt="Screenshot 2026-01-31 222612" src="https://github.com/user-attachments/assets/07aa207a-8560-42d5-8a57-c193f2bb8ed9" />
+
+<img width="1081" height="502" alt="Screenshot 2026-01-31 222651" src="https://github.com/user-attachments/assets/8dbea730-de40-4c41-932f-64ffa346e5b3" />
+
+
+
 
