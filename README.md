@@ -81,6 +81,24 @@ Dashboard overview
 
 <img width="1081" height="502" alt="Screenshot 2026-01-31 222651" src="https://github.com/user-attachments/assets/8dbea730-de40-4c41-932f-64ffa346e5b3" />
 
+🚀 Key Insights
+
+Luxury category contributes a higher share of revenue compared to Business
+
+Certain properties show high ADR but low occupancy, indicating pricing optimization opportunities
+
+Weekend performance consistently outperforms weekdays
+
+Some booking platforms have lower realisation %, impacting net revenue
+
+📈 Business Impact
+
+Helps revenue managers identify underperforming properties
+
+Supports pricing and inventory optimization
+
+Enables leadership to track performance at both macro and micro levels
+
 
 
 
