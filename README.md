@@ -1,0 +1,1 @@
+# provide-insights-in-revenue-team-for-hotels
